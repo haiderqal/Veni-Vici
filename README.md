@@ -44,7 +44,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-![](vv\src\web102veni.gif)
+<img src="./vv/src/web102veni.gif" title="Video Walkthrough" width="600" alt="Video Walkthrough" />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with LiceCAP
